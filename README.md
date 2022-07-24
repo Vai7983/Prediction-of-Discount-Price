@@ -1,1 +1,1 @@
-# Prediction-of-Discount-Price
+# Data Science Project
